@@ -21,7 +21,7 @@
   ```
   
   
-7. Open api.js , at <b>line no. 6 , </b>
+7. Open api.js , at <b>line no. 4 , </b>
   ``` const table = 'myusers'; ----> //table name in which you wants to perform action```
 <h2>Note : All the data will be shown in Json format </h2>
 <t>
