@@ -23,7 +23,7 @@
   
 7. Open api.js , at <b>line no. 4 , </b>
   ``` const table = 'myusers'; ----> //table name in which you wants to perform action```
-<h2>Note : All the data will be shown in Json format </h2>
+<h2>Note : All the data will be shown in Json format as you asked for</h2>
 <t>
 <h3>Now you can perform actions like</h3>
   <t/> <li>get all users</li>
